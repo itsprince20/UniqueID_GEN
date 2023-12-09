@@ -25,6 +25,5 @@ CMD [ "npm", "run", "dev"]
 
 
 # CMD [ "npm", "run", "server"]
-#gcloud builds submit --tag gcr.io/iserveustaging/snowflake-test && gcloud run deploy --image gcr.io/iserveustaging/snowflake-test --platform managed
 
 
